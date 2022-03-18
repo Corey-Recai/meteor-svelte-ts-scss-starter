@@ -1,0 +1,7 @@
+<script lang="ts">
+    import "./Home.scss";
+</script>
+
+<div class="home">
+    <h1>Home!</h1>
+</div>
